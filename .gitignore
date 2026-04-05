@@ -1,0 +1,13 @@
+# Local OS files
+.DS_Store
+
+# Virtual environment and Python build/cache artifacts
+bin/
+lib/
+include/
+share/
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
